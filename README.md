@@ -4,10 +4,11 @@
 
 | NAME             |
 | ---------------- |
-| DƯƠNG MINH HIẾU  |
-| NGUYỄN KHẮC DUY  |
-| TRỊNH THỊ MỸ LỆ   |
 | NGUYỄN TUẤN ANH  |
+| NGUYỄN KHẮC DUY  |
+| DƯƠNG MINH HIẾU  |
+| TRỊNH THỊ MỸ LỆ   |
+
 
 ## Vai trò
 
